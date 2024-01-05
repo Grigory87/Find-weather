@@ -66,7 +66,7 @@ export default {
     border-radius: 50px;
     padding: 20px;
     background: rgb(3,227,202);
-background: linear-gradient(0deg, rgba(3,227,202,0.9976365546218487) 3%, rgba(79,228,119,1) 43%, rgba(151,162,244,1) 81%);
+    background: linear-gradient(0deg, rgba(3,227,202,0.9976365546218487) 3%, rgba(79,228,119,1) 43%, rgba(151,162,244,1) 81%);
     text-align: center;
     color:rgb(20, 24, 24);
 }
